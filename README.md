@@ -1,2 +1,22 @@
 # wild-rydes-server-less-web-app
-Web-application Wild Rydes is built with AWS architecture; includes dynamic API &amp; front-end, user sign-ups &amp; authentication, and Lambda assisted-log storage
+## About Wild Rydes
+[![Website](https://img.shields.io/badge/Live-Website-blue?style=flat-square&logo=appveyor)](http://wildrydes-christopher-denq.s3-website-us-east-1.amazonaws.com/)
+
+`Wild Rydes` is a serverless web-application built using AWS's architecture. It contains a working, dynamic front-end; user sign-ups & authentication; and a log-storage. Since all the work done was on the AWS platform, this repo links to that content.
+
+## Built With
+- AWS
+    - S3
+    - Cognito
+    - DynamoDB
+    - Lambda
+    - API Gateway
+    - IAM
+
+## Technical Skills
+- Understanding architectural requirements for a full serverless-web-app
+- Navigating and deploying multiple cloud-based tools to bring that web-app to life
+- Maintaining and monitoring continued use of the web-app once live
+
+## Screenshots
+
