@@ -19,4 +19,6 @@
 - Maintaining and monitoring continued use of the web-app once live
 
 ## Screenshots
-
+![1](https://user-images.githubusercontent.com/74934154/174072312-de40abce-bdc6-4c99-9fc9-9405927168b7.png)
+![2](https://user-images.githubusercontent.com/74934154/174072313-1fa265f7-0418-4a1f-b086-96126d8d886d.png)
+![3](https://user-images.githubusercontent.com/74934154/174072314-11bdc53c-492c-4ad5-8768-2cc4ab3468d1.png)
